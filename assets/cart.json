@@ -1,0 +1,189 @@
+{
+    "cart": [
+        {
+            "id": "c1",
+            "productId": "Item1",
+            "productName": "Turkish Steek",
+            "initialPrice": 15,
+            "productPrice": 10,
+            "color": "red",
+            "quantity": 1,
+            "cartCounter": 0
+        },
+        {
+            "id": "c2",
+            "productId": "Item2",
+            "productName": "Salmon",
+            "initialPrice": 14,
+            "productPrice": 19,
+            "color": "green",
+            "quantity": 2,
+            "cartCounter": 0
+        },
+        {
+            "id": "c3",
+            "productId": "Item3",
+            "productName": "Red Juice",
+            "initialPrice": 12,
+            "productPrice": 14,
+            "color": "yellow",
+            "quantity": 1,
+            "cartCounter": 0
+        },
+        {
+            "id": "c3",
+            "productId": "Item4",
+            "productName": "Cola",
+            "initialPrice": 12,
+            "productPrice": 14,
+            "color": "purple",
+            "quantity": 3,
+            "cartCounter": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": "p1",
+            "name": "Steak",
+            "description": "Description 3"
+
+        },
+        {
+            "id": "p2",
+            "name": "Vegetables",
+            "description": "Description 3"
+
+        },
+        {
+            "id": "p3",
+            "name": "Fish",
+            "description": "Description 3"
+        },
+        {
+            "id": "p4",
+            "name": "Juice",
+            "description": "Description 3"
+        },
+        {
+            "id": "p5",
+            "name": "Beverages",
+            "description": "Description 3"
+        },
+        {
+            "id": "p6",
+            "name": "Fruits",
+            "description": "Description 3"
+        }
+    ],
+
+    "addresses": [
+        {
+            "id": "A1",
+            "HomeAddressP1": "Mostafa st No2",
+            "HomeAddressP2": "StreetX12",
+            "OfficeAddressP1": "Axis istanbulB2 bloc",
+            "OfficeAddressP2": "Floor2 Office11"
+        },
+        {
+            "id": "A2",
+            "HomeAddressP1": "Mostafa st No2",
+            "HomeAddressP2": "StreetX12",
+            "OfficeAddressP1": "Axis istanbulB2 bloc",
+            "OfficeAddressP2": "Floor2 Office11"
+        },
+        {
+            "id": "A3",
+            "HomeAddressP1": "Mostafa st No2",
+            "HomeAddressP2": "StreetX12",
+            "OfficeAddressP1": "Axis istanbulB2 bloc",
+            "OfficeAddressP2": "Floor2 Office11"
+        }
+    ],
+    "deals": [
+        {
+            "id": "b1",
+            "productName": "Summer Sun Ice Cream Pack",
+            "initialPrice": 12,
+            "productPrice": 18,
+            "color": "pink",
+            "quantity": 5,
+            "location": "15 Minutes Away",
+            "isFavorit": false
+        },
+        {
+            "id": "b2",
+            "productName": "Salmon",
+            "initialPrice": 12,
+            "productPrice": 15,
+            "color": "blue",
+            "quantity": 3,
+            "location": "15 Minutes Away",
+            "isFavorit": false
+        },
+        {
+            "id": "b3",
+            "productName": "chees",
+            "initialPrice": 10,
+            "productPrice": 14,
+            "color": "purple",
+            "quantity": 2,
+            "location": "15 Minutes Away",
+            "isFavorit": false
+        }
+    ],
+    "offers": [
+        {
+            "id": "p1",
+            "name": "Item 1",
+            "description": "Description 1"
+        },
+        {
+            "id": "p2",
+            "name": "Item 2",
+            "description": "Description 2"
+        },
+        {
+            "id": "p3",
+            "name": "Item 3",
+            "description": "Description 3"
+        }
+    ],
+    "favorite": [
+        {
+            "id": "c1",
+            "productId": "Item1",
+            "productName": "Turkish Steek",
+            "initialPrice": 15,
+            "productPrice": 10,
+            "color": "red",
+            "quantity": 1
+        },
+        {
+            "id": "c2",
+            "productId": "Item2",
+            "productName": "Salmon",
+            "initialPrice": 14,
+            "productPrice": 19,
+            "color": "green",
+            "quantity": 2
+        },
+        {
+            "id": "c3",
+            "productId": "Item3",
+            "productName": "Red Juice",
+            "initialPrice": 12,
+            "productPrice": 14,
+            "color": "yellow",
+            "quantity": 1
+        },
+        {
+            "id": "c3",
+            "productId": "Item4",
+            "productName": "Cola",
+            "initialPrice": 12,
+            "productPrice": 14,
+            "color": "purple",
+            "quantity": 3
+        }
+    ]
+}
